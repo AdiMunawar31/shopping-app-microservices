@@ -9,7 +9,7 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 
-@Document(value = "product")
+@Document(value = "products")
 @AllArgsConstructor
 @Builder
 @Data
